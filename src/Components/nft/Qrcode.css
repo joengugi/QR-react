@@ -1,0 +1,22 @@
+.viewclass{
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+height: 120px;
+background-color: hsl(216, 51%, 20%);
+}
+
+.card_1{
+align-content: center;
+justify-content: center;
+border-radius: 18px;
+height: auto;
+width: 300px;
+background-color: hsl(215, 48%, 26%);
+}
+
+.icon_1{
+height: auto;
+width: auto;
+}
